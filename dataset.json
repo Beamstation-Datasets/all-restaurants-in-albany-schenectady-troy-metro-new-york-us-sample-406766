@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset spanning the Albany-Schenectady-Troy (Metro), New York metropolitan area including Albany, Schenectady, and Troy. Covers a mid-size metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Albany-Schenectady-Troy (Metro), New York, US",
+  "export_job_id": "f3e0d0be-0422-41eb-b0d5-7564dd070d33",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 406766,
+  "location_name": "Albany-Schenectady-Troy, NY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-albany-schenectady-troy-metro-new-york-us-sample-406766",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/406766/beamstation_406766_restaurants-us-albanyschenectadytroyny_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 208,
+  "sample_sha256": "2cbafb6873987aa05dd450ddd8d9171211103eda674f5bc90c874a11bfd0b996",
+  "sample_size_bytes": 706103,
+  "total_records": 2082,
+  "updated_at": "2026-04-09T13:42:06.160861+00:00"
+}
