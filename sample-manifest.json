@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f3e0d0be-0422-41eb-b0d5-7564dd070d33",
+  "export_job_id": "ceb1a8d3-eaf8-4af3-bdf4-d7fbf17f8176",
   "id_short": 406766,
-  "published_at": "2026-04-12T07:31:33Z",
+  "published_at": "2026-04-19T08:01:29Z",
   "repo_name": "all-restaurants-in-albany-schenectady-troy-metro-new-york-us-sample-406766",
   "sample_asset_name": "beamstation_406766_restaurants-us-albanyschenectadytroyny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/406766/beamstation_406766_restaurants-us-albanyschenectadytroyny_SAMPLE_DIST.csv",
-  "sample_records": 208,
-  "sample_sha256": "2cbafb6873987aa05dd450ddd8d9171211103eda674f5bc90c874a11bfd0b996",
-  "sample_size_bytes": 706103,
-  "total_records": 2082
+  "sample_records": 206,
+  "sample_sha256": "ece95143061ed71cac2e3268964e907fd9a3654679253ff2a862f08c9df1a0e5",
+  "sample_size_bytes": 715171,
+  "total_records": 2060
 }
