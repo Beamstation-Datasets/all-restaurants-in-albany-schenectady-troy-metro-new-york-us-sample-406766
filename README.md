@@ -1,6 +1,6 @@
 # All Restaurants in Albany-Schenectady-Troy (Metro), New York, US
 
-> Free BeamStation sample export with 186 rows and masked direct-contact fields.
+> Free BeamStation sample export with 207 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `406766` |
 | Location | Albany-Schenectady-Troy, NY |
 | Category | Restaurants |
-| Full dataset size | 1,862 records |
-| Free sample size | 186 records (9.99%) |
-| Last export | 2026-04-23T12:46:47.824542+00:00 |
+| Full dataset size | 2,079 records |
+| Free sample size | 207 records (9.96%) |
+| Last export | 2026-05-01T00:05:42.856294+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-albany-schenectady-troy-metro-new-york-us-sample-406766/releases/download/sample-latest/beamstation_406766_restaurants-us-albanyschenectadytroyny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
